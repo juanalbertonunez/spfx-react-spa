@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-spa-react-client-side-solution",
+    "id": "64804a18-5dfa-48d0-b454-debaf16c07c4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx.spa.react description"
+      },
+      "longDescription": {
+        "default": "spfx.spa.react description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-spa-react Feature",
+        "description": "The feature that activates elements of the spfx-spa-react solution.",
+        "id": "718a3c7b-c6b1-4796-bb44-80a3baf22d26",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-spa-react.sppkg"
+  }
+}
